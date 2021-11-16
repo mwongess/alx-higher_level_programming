@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 # 2-print_alphabet.py
 # Brennan D Baraban <375@holbertonschool.com>
