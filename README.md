@@ -15,7 +15,7 @@ track at ALX.
 * **Amos Mwongela** <[cm-amos](https://github.com/cm-amos)>
 
 <p align="center">
-  <img src="https://theme.zdassets.com/theme_assets/10239256/f69718478ae7ecaaae43d9f8aefd9638c313b55e.jpg"
+  <a href= "https://alxafrica.com"><img src="Alx.jpeg"
        alt="alx logo"
-  >
+  ></a>
 </p>
