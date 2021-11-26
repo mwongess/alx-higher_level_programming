@@ -18,7 +18,7 @@ track at ALX.
 * Click this icon for more information
 
 <p align="center">
-  <a href= "https://alxafrica.com"><img src="Alx.jpeg"
+  <a href= "https://alxafrica.com"><img src="./img/Alx.jpeg"
        alt="alx logo"
   ></a>
 </p>
