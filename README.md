@@ -9,6 +9,7 @@ track at ALX.
 * [0x02. Python - import & modules](./0x02-python-import_modules)
 * [0x03. Python - Data Structures: Lists, Tuples](./0x03-python-data_structures)
 * [0x04. python  - more_data_structures](0./0x04-python-more_data_structures)
+* [0x05-python-exceptions] (0./0x05-python-exceptions)
 
 * **Author : Amos Mwongela Gabriel** <[cm-amos](https://github.com/cm-amos)>
 
