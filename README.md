@@ -16,7 +16,7 @@ track at ALX.
 
 ## Author :black_nib:
 
-* Click this icon for more information about ALX
+* Click this icon for more information about ALX africa.
 
 <p align="center">
   <a href= "https://alxafrica.com"><img src="./img/Alx.jpeg"
