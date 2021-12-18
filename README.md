@@ -12,7 +12,7 @@ track at ALX.
 * [0x05-python-exceptions] (0./0x05-python-exceptions)
 * [0x06-Python - Classes and Objects] (./0x06-python-classes)
 * [0x07-python-test_driven_development] (./0x07-python-test_driven_development)
-
+* [0x08-python-more_classes] (./0x08-python-more_classes)
 * **Author : Amos Mwongela Gabriel** <[cm-amos](https://github.com/cm-amos)>
 
 ## Author :black_nib:
