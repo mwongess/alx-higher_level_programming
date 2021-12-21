@@ -1,34 +1,30 @@
 #!/usr/bin/python3
-# 12-student.py
-# Amos Mwongela Gabriel
-"""Defines a class Student."""
+"""
+Module 14-pascal_triangle
+Contains function that returns int lists of pascal triangle of any given size
+"""
 
 
-class Student:
-    """Represent a student."""
+def pascal_triangle(n):
+    """
+    Return:
+        empty list [] if n <= 0
+        if n is 7, we should expect:
+            [1]
+            [1, 1]
+            [1, 2, 1]
+            [1, 3, 3, 1]
+            [1, 4, 6, 4, 1]
+            [1, 5, 10, 10, 5, 1]
+            [1, 6, 15, 20, 15, 6, 1]
+    """
+    if n <= 0:
+        return []
+    if n == 1:
+        return [[1]]
 
-    def __init__(self, first_name, last_name, age):
-        """Initialize a new Student.
-
-        Args:
-            first_name (str): The first name of the student.
-            last_name (str): The last name of the student.
-            age (int): The age of the student.
-        """
-        self.first_name = first_name
-        self.last_name = last_name
-        self.age = age
-
-    def to_json(self, attrs=None):
-        """Get a dictionary representation of the Student.
-
-        If attrs is a list of strings, represents only those attributes
-        included in the list.
-
-        Args:
-            attrs (list): (Optional) The attributes to represent.
-        """
-        if (type(attrs) == list and
-                all(type(ele) == str for ele in attrs)):
-            return {k: getattr(self, k) for k in attrs if hasattr(self, k)}
-        return self.__dict__
+    triangle = [[1]]
+    for rows in range(n-1):
+        triangle.append([a+b for a, b
+                         in zip([0] + triangle[-1], triangle[-1] + [0])])
+    return triangle
