@@ -25,7 +25,7 @@ track at ALX.
 * [0x12. Javascript - Warm up](./0x12-javascript-warm_up)
 * [0x13. Javascript - Objects, Scopes and Closures](./0x13-javascript_objects_scopes_closures)
 
-* [0x15. Javascript - Web JQuery](./0x15-javascript-web_jquery)
+
 * **Author : Amos Mwongela Gabriel** <[cm-amos](https://github.com/cm-amos)>
 
 ## Author :black_nib:
