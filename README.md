@@ -24,8 +24,6 @@ track at ALX.
 * [0x11. Python - Network #1](./0x11-python-network_1)
 * [0x12. Javascript - Warm up](./0x12-javascript-warm_up)
 * [0x13. Javascript - Objects, Scopes and Closures](./0x13-javascript_objects_scopes_closures)
-
-
 * **Author : Amos Mwongela Gabriel** <[cm-amos](https://github.com/cm-amos)>
 
 ## Author :black_nib:
