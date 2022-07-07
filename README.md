@@ -1,4 +1,7 @@
 # Higher-level programming - Python, Databases & JavaScript
+![Repo size](https://img.shields.io/github/repo-size/4ouR04/alx-higher_level_programming)
+![Pep8 style](https://img.shields.io/badge/PEP8-style%20guide-purple?style=round-square)
+![Latest commit](https://img.shields.io/github/last-commit/4ouR04/alx-higher_level_programming/main?style=round-square)
 
 This repository contains programs written for the higher-level programming
 track at ALX.
@@ -24,15 +27,15 @@ track at ALX.
 * [0x11. Python - Network #1](./0x11-python-network_1)
 * [0x12. Javascript - Warm up](./0x12-javascript-warm_up)
 * [0x13. Javascript - Objects, Scopes and Closures](./0x13-javascript_objects_scopes_closures)
-* [0x15-javascript-web_jquery] (./0x15-javascript-web_jquery)
-* **Author : Amos Mwongela Gabriel** <[cm-amos](https://github.com/cm-amos)>
+* [0x15-javascript-web_jquery](./0x15-javascript-web_jquery)
 
 ## Author :black_nib:
+* **Author : Amos Mwongela Gabriel** <[4ouR04](https://github.com/4ouR04)>
 
-* Click this icon for more information.
+* Click this image for more information.
 
 <p align="center">
-  <a href= "https://alxafrica.com"><img src="./img/Alx.jpeg"
+  <a href= "https://alxafrica.com"><img style="width: 100%"src="./img/Alx.jpeg"
        alt="alx logo"
   ></a>
 </p>
